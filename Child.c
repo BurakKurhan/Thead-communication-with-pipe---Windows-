@@ -1,5 +1,4 @@
-//İsmail Burak Kurhan
-//220201055
+//Ãsmail Burak Kurhan
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
